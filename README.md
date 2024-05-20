@@ -1,0 +1,3 @@
+- Language/Technology: HTML, CSS, Python.
+- Portfolio Website is built using HTML, CSS, Python, and a library called Streamlit.
+- Aim : To present my skills in a much responsive and creative way.
